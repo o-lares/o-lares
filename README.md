@@ -4,7 +4,7 @@
 - 👀 I’m interested in ... machine learning, data science and data
 - 🌱 I’m currently learning ... how to be a better programmer
 - 💞️ I’m looking to collaborate on ... anything AI and ML
-- 📫 How to reach me ... via email, oscar.lares@uga.edu
+- 📫 How to reach me ... via (LinkedIn)[https://www.linkedin.com/in/oscarelares/] 😉
 
 <!---
 Oscy4/Oscy4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
